@@ -44,7 +44,7 @@
 
   <!-- About Preview -->
   <section class="flex flex-wrap items-center justify-center gap-12 bg-white py-20 px-6 relative">
-    <div class="absolute inset-0 bg-[url('assets/images/bg-texture.png')] opacity-10 pointer-events-none"></div>
+    <div class="absolute inset-0 bg-[url('assets/images/about-me.jpg')] opacity-10 pointer-events-none"></div>
     <div class="flex-1 max-w-lg z-10 text-center sm:text-left">
       <h2 class="text-3xl sm:text-4xl font-bold mb-4 text-gray-900">Behind the Lens</h2>
       <p class="text-lg leading-relaxed mb-6 text-gray-700">Hi, I’m Brandon — a freelance photographer who believes every moment has a story. Whether it’s love, adventure, or subtle beauty, I’m here to capture it with authenticity.</p>

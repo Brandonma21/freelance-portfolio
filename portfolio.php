@@ -56,9 +56,9 @@
 
   <?php 
     $sections = [
-      'Travel' => [1, 6, 'bg-gray-900 text-white', 'travel'],
-      'Weddings' => [7, 12, 'bg-yellow-50 text-gray-900', 'weddings'],
-      'Portraits' => [13, 18, 'bg-[#111827] text-white', 'portraits']
+      'Travel' => [1, 6, 'bg-gray-200 text-black', 'travel'],
+      'Weddings' => [7, 12, 'bg-gray-200 text-black', 'weddings'],
+      'Portraits' => [13, 18, 'bg-gray-200 text-black', 'portraits']
     ];
 
     foreach ($sections as $title => [$start, $end, $classes, $id]):
