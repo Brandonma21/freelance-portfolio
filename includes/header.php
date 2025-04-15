@@ -25,10 +25,15 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body class="bg-white text-gray-800 font-montserrat m-0">
-  <header class="flex justify-between items-center bg-black text-white py-4 px-8">
-    <div class="text-xl font-bold">📸 PhotoSnap Studio</div>
-    <nav>
-      <ul class="flex gap-4 list-none m-0 p-0">
+  <header class="flex flex-wrap justify-between items-center bg-black text-white py-4 px-6 sm:px-8">
+    <!-- Logo -->
+    <div class="text-xl font-bold mb-4 sm:mb-0">
+      📸 PhotoSnap Studio
+    </div>
+
+    <!-- Navigation -->
+    <nav class="w-full sm:w-auto">
+      <ul class="flex flex-wrap justify-center sm:justify-end gap-4 list-none m-0 p-0">
         <li><a href="/index.php" class="text-white hover:text-primary transition">Home</a></li>
         <li><a href="/about.php" class="text-white hover:text-primary transition">About</a></li>
         <li><a href="/services.php" class="text-white hover:text-primary transition">Services</a></li>

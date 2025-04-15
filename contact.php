@@ -1,6 +1,11 @@
 <?php include 'includes/header.php'; ?>
 
 <main class="bg-gray-100 py-20 px-4 text-center">
+  <!-- Demo Badge -->
+<div class="fixed top-20 left-0 z-50 bg-red-600 text-white text-sm font-semibold px-4 py-2 rounded-r-md shadow-md">
+  Demo Website
+</div>
+
   <!-- Contact Hero Section -->
   <section class="contact-hero bg-gradient-to-r from-gray-900 to-gray-600 text-white py-16 px-4">
     <div class="contact-intro max-w-4xl mx-auto text-center">

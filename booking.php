@@ -1,6 +1,11 @@
 <?php include 'includes/header.php'; ?>
 
 <main class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 min-h-screen py-16 px-4">
+  <!-- Demo Badge -->
+<div class="fixed top-20 left-0 z-50 bg-red-600 text-white text-sm font-semibold px-4 py-2 rounded-r-md shadow-md">
+  Demo Website
+</div>
+
   <!-- Booking Hero Section -->
   <section class="text-center mb-12">
     <h1 class="text-5xl font-extrabold text-gray-800 mb-4">Book Your Session</h1>
